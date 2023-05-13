@@ -1,10 +1,10 @@
 <template>
     <div class="bg-kampala-primary-light h-screen w-full">
         <div class="flex items-center justify-center h-screen">
-            <div class="mx-auto max-w-xl">
+            <div class="mx-auto max-w-xl pt-2">
                 <div class="flex items-center justify-center"><img src="../assets/images/main-logo.png" alt="Main Logo"></div>
                 <div class="mb-4 text-center">
-                    <div class="font-bold text-3xl mb-2">User Login</div>
+                    <div class="font-bold text-3xl mt-2">User Login</div>
                     <div class="text-sm">Input your details and dive into our premium quality groceries and supermarket</div>
                 </div>
                 <div class="bg-white p-4 mb-5">
@@ -26,7 +26,7 @@
                             placeholder="Enter password" 
                             class="block w-full mt-1 border border-gray-300 text-lg form-input font-medium py-3 px-3 shadow-sm focus:border-kampala-primary focus:outline-none focus:ring-kampala-primary sm:text-sm">
                     </div>
-                    <div class="mb-12">Forgot password?</div>
+                    <div class="mb-8">Forgot password?</div>
                     <div @click="$router.push('/')">
                         <button  class="bg-kampala-primary text-white font-semibold w-full py-3 hover:text-kampala-primary-light">Log In</button>
                     </div>

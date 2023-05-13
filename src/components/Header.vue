@@ -1,5 +1,5 @@
 <template>
-    <div class="shadow-md py-8">
+    <div class="shadow-md py-2">
         <div class="flex items-center justify-between max-w-6xl mx-auto">
             <div><img src="../assets/images/main-logo.png" alt="Main Logo"></div>
             <div class="flex items-center text-kampala-primary font-semibold space-x-10">

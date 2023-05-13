@@ -1,10 +1,10 @@
 <template>
-    <div class="bg-kampala-primary-light h-screen w-full pt-2">
+    <div class="bg-kampala-primary-light h-screen w-full">
         <div class="flex items-center justify-center h-screen">
-            <div class="mx-auto max-w-xl">
+            <div class="mx-auto max-w-xl pt-2">
                 <div class="flex items-center justify-center"><img src="../assets/images/main-logo.png" alt="Main Logo"></div>
                 <div class="mb-4 text-center text-sm">
-                    <div class="font-semibold text-3xl mb-2">Create your account</div>
+                    <div class="font-bold text-3xl mt-2">Create your account</div>
                     <div>Let’s get started by creating your account</div>
                     <div>Remember that to keep your account safe, a strong password is needed</div>
                 </div>

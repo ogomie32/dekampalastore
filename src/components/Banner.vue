@@ -1,5 +1,5 @@
 <template>
-    <div class="max-w-6xl mx-auto pt-48 text-kampala-gray">
+    <div class="max-w-6xl mx-auto pt-24 text-kampala-gray">
         <div class="flex items-center justify-between">
             <div class="-mr-72 z-20">
                 <div class="font-bold text-5xl">Get Fresh Groceries Delivered <br> To Your Door Step</div>
