@@ -1,6 +1,6 @@
 <template>
     <div class="bg-kampala-primary">
-        <div class="max-w-7xl mx-auto text-white flex justify-between pt-10 pb-2">
+        <div class="max-w-6xl mx-auto text-white flex justify-between pt-10 pb-2">
             <div>
                 <div><img src="../assets/images/logo.png" alt="Logo"></div>
                 <div class="flex flex-col space-y-4 pt-8">

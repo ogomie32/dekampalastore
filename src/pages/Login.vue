@@ -2,8 +2,9 @@
     <div class="bg-kampala-primary-light h-screen w-full">
         <div class="flex items-center justify-center h-screen">
             <div class="mx-auto max-w-xl">
+                <div class="flex items-center justify-center"><img src="../assets/images/main-logo.png" alt="Main Logo"></div>
                 <div class="mb-4 text-center">
-                    <div class="font-semibold text-3xl mb-2">User Login</div>
+                    <div class="font-bold text-3xl mb-2">User Login</div>
                     <div class="text-sm">Input your details and dive into our premium quality groceries and supermarket</div>
                 </div>
                 <div class="bg-white p-4 mb-5">

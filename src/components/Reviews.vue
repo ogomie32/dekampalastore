@@ -1,5 +1,5 @@
 <template>
-    <div class="max-w-7xl mx-auto py-48 text-kampala-gray">
+    <div class="max-w-6xl mx-auto py-48 text-kampala-gray">
         <div>
             <div class="text-center font-semibold text-5xl pb-20">Customer Reviews & Ratings</div>
             <div class="flex justify-between w-full">

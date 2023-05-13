@@ -1,5 +1,5 @@
 <template>
-    <div class="max-w-7xl mx-auto -mt-10 text-kampala-gray">
+    <div class="max-w-6xl mx-auto -mt-3 text-kampala-gray">
         <div>
             <div class="flex items-center justify-center space-x-3 pb-20">
                 <div class="font-semibold text-5xl">Featured Promotions</div>

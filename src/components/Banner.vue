@@ -1,9 +1,9 @@
 <template>
-    <div class="max-w-7xl mx-auto pt-48 text-kampala-gray">
+    <div class="max-w-6xl mx-auto pt-48 text-kampala-gray">
         <div class="flex items-center justify-between">
-            <div class="-mr-56 z-20">
-                <div class="font-bold text-6xl">Get Fresh Groceries Delivered <br> To Your Door Step</div>
-                <div class="text-2xl tracking-wide">Shop online for wide variety of fresh groceries and get them delivered to <br> your door step</div>
+            <div class="-mr-72 z-20">
+                <div class="font-bold text-5xl">Get Fresh Groceries Delivered <br> To Your Door Step</div>
+                <div class="text-xl tracking-wide">Shop online for wide variety of fresh groceries and get them delivered to <br> your door step</div>
             </div>
             <div class="relative">
                 <div class="rounded-full bg-kampala-primary-light mt-3" style="width: 31rem; height: 31rem;">
