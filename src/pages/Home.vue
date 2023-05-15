@@ -3,8 +3,8 @@
         <Header/>
         <Banner/>
         <Promotions/>
+        <Category/>
         <FreshPicks/>
-        <!-- <Category/> -->
         <!-- <WhyChooseUs/> -->
         <Reviews/>
         <FooterBar/>

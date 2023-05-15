@@ -13,7 +13,7 @@
                     <div class="px-4">
                         <div class="my-4">
                             <div class="font-semibold text-xl flex items-center justify-between">
-                                <div>Fresh Red Apples</div>
+                                <div>Fresh red apple</div>
                                 <div class="pl-3 text-base">#500/1</div>
                             </div>
                             <div class="text-left font-light text-gray-400 text-sm">
@@ -60,7 +60,7 @@
                     <div class="px-4">
                         <div class="my-4">
                             <div class="font-semibold text-xl flex items-center justify-between">
-                                <div>Cow Meat</div>
+                                <div>Cow meat</div>
                                 <div class="pl-3 text-base">#3500/1</div>
                             </div>
                             <div class="text-left font-light text-gray-400 text-sm">
