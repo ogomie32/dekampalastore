@@ -7,7 +7,15 @@
             </div>
             <div class="flex justify-between w-full space-x-10">
                 <div class="text-center font-semibold w-full">
-                    <div class="flex items-center justify-center rounded-t-md overflow-hidden"><img src="../assets/images/img-4.png" alt="Image 1" class="w-full object-center object-contain"></div>
+                    <div class="relative flex items-center justify-center rounded-t-md overflow-hidden">
+                        <img src="../assets/images/img-4.png" alt="Image 1" class="w-full object-center object-contain">
+                        <div class="absolute top-3 right-3">
+                            <div class="relative">
+                                <img src="../assets/images/svgs/red-star.svg" alt="Image 1" class="w-full object-center object-contain">
+                                <div class="absolute top-8 left-4 text-white text-xs">20% off</div>
+                            </div>
+                        </div>
+                    </div>
                     <div class="px-4">
                         <div class="my-4">
                             <div class="font-semibold text-xl flex items-center justify-between">
@@ -32,7 +40,15 @@
                     </div>
                 </div>
                 <div class="text-center font-semibold w-full">
-                    <div class="flex items-center justify-center rounded-t-md overflow-hidden"><img src="../assets/images/img-5.png" alt="Image 1" class="w-full object-center object-contain"></div>
+                    <div class="flex relative items-center justify-center rounded-t-md overflow-hidden">
+                        <img src="../assets/images/img-6.png" alt="Image 1" class="w-full object-center object-contain">
+                        <div class="absolute top-3 right-3">
+                            <div class="relative">
+                                <img src="../assets/images/svgs/red-star.svg" alt="Image 1" class="w-full object-center object-contain">
+                                <div class="absolute top-8 left-4 text-white text-xs">25% off</div>
+                            </div>
+                        </div>
+                    </div>
                     <div class="px-4">
                         <div class="my-4">
                             <div class="font-semibold text-xl flex items-center justify-between">
@@ -57,7 +73,15 @@
                     </div>
                 </div>
                 <div class="text-center font-semibold w-full">
-                    <div class="flex items-center justify-center rounded-t-md overflow-hidden"><img src="../assets/images/img-6.png" alt="Image 1" class="w-full object-center object-contain"></div>
+                    <div class="flex relative items-center justify-center rounded-t-md overflow-hidden">
+                        <img src="../assets/images/img-5.png" alt="Image 1" class="w-full object-center object-contain">
+                        <div class="absolute top-3 right-3">
+                            <div class="relative">
+                                <img src="../assets/images/svgs/red-star.svg" alt="Image 1" class="w-full object-center object-contain">
+                                <div class="absolute top-8 left-4 text-white text-xs">5% off</div>
+                            </div>
+                        </div>
+                    </div>
                     <div class="px-4">
                         <div class="my-4">
                             <div class="font-semibold text-xl flex items-center justify-between">

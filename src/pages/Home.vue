@@ -2,9 +2,9 @@
     <div>
         <Header/>
         <Banner/>
-        <!-- <FreshPicks/>
-        <Category/> -->
         <Promotions/>
+        <FreshPicks/>
+        <!-- <Category/> -->
         <!-- <WhyChooseUs/> -->
         <Reviews/>
         <FooterBar/>
