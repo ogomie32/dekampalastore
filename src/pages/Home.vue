@@ -5,7 +5,7 @@
         <Promotions/>
         <Category/>
         <FreshPicks/>
-        <!-- <WhyChooseUs/> -->
+        <WhyChooseUs/>
         <Reviews/>
         <FooterBar/>
     </div>
