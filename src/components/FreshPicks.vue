@@ -1,9 +1,9 @@
 <template>
     <div class="max-w-6xl mx-auto pt-24 text-kampala-gray">
-        <div>
+        <div class="p-5 shadow-2xl">
             <div class="text-center pb-20">
                 <div class="font-semibold text-5xl">Fresh picks of the week</div>
-                <div>Hand-picked, farm-fresh groceries delivered to your door step </div>
+                <div class="pt-2 font-semibold">Hand-picked, farm-fresh groceries delivered to your door step </div>
             </div>
             <div class="flex justify-between w-full space-x-10">
                 <div class="text-center font-semibold w-full">
@@ -13,15 +13,12 @@
                     <div class="px-4">
                         <div class="my-4">
                             <div class="font-semibold text-xl flex items-center justify-between">
-                                <div>Sea Food</div>
-                                <div class="pl-3">Now</div>
+                                <div>Fresh Red Apples</div>
+                                <div class="pl-3 text-base">#500/1</div>
                             </div>
-                            <div class="flex items-center text-gray-400 justify-between text-sm">
-                                <div>Tilapia, Salmon, Catfish, Crabs</div>
-                                <div class="flex ites-center">
-                                    <div>#100</div>  
-                                    <div><img src="../assets/images/svgs/fire.svg" alt="Fire"></div>
-                                </div>
+                            <div class="text-left font-light text-gray-400 text-sm">
+                                <div>Our fresh red apple are locally <br> sourced and handpicked by <br> experts.</div>
+                                
                             </div>
                         </div>
                         <div class="text-sm">
@@ -40,15 +37,11 @@
                     <div class="px-4">
                         <div class="my-4">
                             <div class="font-semibold text-xl flex items-center justify-between">
-                                <div>Rice</div>
-                                <div class="pl-3">Now</div>
+                                <div>Vegetables</div>
+                                <div class="pl-3 text-base">#1500/1</div>
                             </div>
-                            <div class="flex items-center text-gray-400 justify-between text-sm">
-                                <div>Basmati, Parboiled rice, Red rice</div>
-                                <div class="flex ites-center">
-                                    <div>#200</div>  
-                                    <div><img src="../assets/images/svgs/fire.svg" alt="Fire"></div>
-                                </div>
+                            <div class="font-light text-left text-gray-400 text-sm">
+                                <div>We believe in importance of <br> eating a variety of fresh <br> vegetables.</div>
                             </div>
                         </div>
                         <div class="text-sm">
@@ -67,15 +60,11 @@
                     <div class="px-4">
                         <div class="my-4">
                             <div class="font-semibold text-xl flex items-center justify-between">
-                                <div>Pasta</div>
-                                <div class="pl-3">Now</div>
+                                <div>Cow Meat</div>
+                                <div class="pl-3 text-base">#3500/1</div>
                             </div>
-                            <div class="flex items-center text-gray-400 justify-between text-sm">
-                                <div>Spaghetti, Macaroni, Fenne</div>
-                                <div class="flex ites-center">
-                                    <div>#300</div>  
-                                    <div><img src="../assets/images/svgs/fire.svg" alt="Fire"></div>
-                                </div>
+                            <div class="text-left font-light text-gray-400 text-sm">
+                                <div>Our cow meat is sourced local <br> farms and carefully selected for <br> it exceptional taste and quality</div>
                             </div>
                         </div>
                         <div class="text-sm">
